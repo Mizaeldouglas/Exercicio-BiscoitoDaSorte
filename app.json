@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Exercicio-BiscoitoDaSorte",
+    "slug": "Exercicio-BiscoitoDaSorte",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Exercicio-BiscoitoDaSorte"
+}
